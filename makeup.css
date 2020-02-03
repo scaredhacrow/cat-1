@@ -1,0 +1,203 @@
+ul{
+    list-style-type: none;
+    text-decoration: none;
+    justify-content: space-between;
+    display: flex;
+}
+body{
+    background-color: #b200ac;
+}
+ul a{
+    text-decoration: none;
+    color: white;
+}
+li{
+    padding-right: 10px;
+
+}
+.left{
+    width: 40%;
+    height: 10%;
+
+}
+.sign{
+    border: white;
+}
+.right{
+    width: 20%;
+    height: 10%;
+}
+.big{
+    height: 100%;
+    width: 100%;
+
+}
+.top{
+    height: 10%;
+    width: 100%;
+    display: flex;
+    color: black;
+
+}
+.mid{
+    width: 40%;
+}
+.bottom{
+    text-align: center;
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+form{
+    background-color: #b200ac;
+}
+input{
+    width: 60%;
+}
+input[type=text] {
+    border: none;
+    border-bottom: 2px solid #ffffff;
+    background:transparent;
+    color: white;
+
+}
+input[type=email] {
+    border: none;
+    border-bottom: 2px solid #ffffff;
+    background: transparent;
+    color: white;
+}
+img{
+    width:35px;
+    height: 35px;
+}
+.leftb{
+    width: 10%;
+
+}
+.mida{
+    width: 15%;
+}
+.midb{
+    width: 30%;
+}
+.midc{
+    width: 30%;
+}
+.leftimg{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    overflow: hidden;
+    z-index:  -100;
+    min-width: 100%;
+    min-height: 100%;
+
+}
+.leftd{
+    height: 100%;
+    width: 45%;
+    background-color: black;
+    opacity: 0.5;
+    color: white;
+    text-align: center;
+}
+.rightd{
+    height: 100%;
+    width: 45%;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    align-items: center;
+
+}
+h2{
+    padding: 45px;
+}
+.biga{
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+form{
+    height: 200px;
+    fill: none;
+    background: transparent;
+    border: none;
+    font-size: 18px;
+    margin-bottom: 16px;
+}
+button{
+    padding: 10px;
+    background-color: #ff4500;
+    border-radius: 10px;
+}
+
+button:hover{
+    background: transparent;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.learn:hover{
+    background-color: black;
+    opacity: 0.45;
+
+}
+input{
+    padding: 30px;
+}
+.hgt{
+    padding: 65px;
+}
+.buta{
+    background-color:transparent;
+    color: black;
+}
+.kode{
+    width:350px;
+    height: 600px;
+    padding: 20px;
+    background-color: white;
+    opacity: 0.5;
+    color: black;
+}
+.kode input{
+    border-bottom: orangered solid 2px;
+    opacity: 0.95;
+    color: black;
+    padding: 10%;
+}
+.midmid{
+    width: 10%;
+}
+.topper{
+    color: black;
+}
+.topcat{
+    background-color: black;
+    opacity: 0.5;
+    height: 10%;
+    width: 100%;
+    display: flex;
+}
+.li1{
+    color: black;
+}
+.learn{
+    text-decoration: none;
+}
+.last{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+.buta:hover{
+    background-color: black;
+}
+a:hover{
+    color: chartreuse;
+}
